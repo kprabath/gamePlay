@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\KasunP\\export1\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi-v4\\app_icon.png",
+        "source": "E:\\KasunP\\export1\\launcher\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\KasunP\\export1\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi-v4\\ic_launcher_background.png",
+        "source": "E:\\KasunP\\export1\\launcher\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\KasunP\\export1\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi-v4\\ic_launcher_foreground.png",
+        "source": "E:\\KasunP\\export1\\launcher\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    }
+]

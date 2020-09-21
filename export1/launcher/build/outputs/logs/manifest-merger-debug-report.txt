@@ -1,0 +1,59 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml:3:70-114
+		INJECTED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml
+		INJECTED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml
+		ADDED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml:3:115-161
+	android:versionCode
+		INJECTED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml
+		ADDED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml:3:162-202
+supports-screens
+ADDED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml:4:135-160
+application
+ADDED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml:5:3-83
+	android:label
+		ADDED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml:5:16-48
+	android:icon
+		ADDED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml:5:49-80
+uses-sdk
+INJECTED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml
+INJECTED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml
+INJECTED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml
+INJECTED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml
+		ADDED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml
+		INJECTED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml
+		ADDED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml
+		INJECTED from E:\KasunP\export1\launcher\src\main\AndroidManifest.xml
